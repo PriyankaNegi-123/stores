@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&family=Bree+Serif&family=Poppins:wght@400;500;600;700;800;900&family=Rubik+Microbe&display=swap');
+
+*, *::after, *::before{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root{
+    --clr-blue: #1c2042;
+    --clr-white: #dddddd;
+    --clr-black: #333333;
+}
+
+html{
+    font-size: 16px;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--clr-white);
+    color: var(--clr-blue)
+}
+
+.title{
+    text-align: center;
+    border-bottom: 5px solid #3b33cf;
+}

@@ -20,7 +20,7 @@ export const products = [
     {
         image:`https://m.media-amazon.com/images/I/710+M61cX4L._UY741_.jpg`,
         title:`Formal Shirt`,
-        description:`Diverse Men's Regular Fit Formal Shirt`,
+        description:`Diverse Men's Regular Fit Formal Men's Shirt`,
         price:`INR 399`
     },
     {

@@ -8,6 +8,7 @@ const Shirt = ({image, title, description, price}) => {
             <h2 className="shirt-title">{title}</h2>
             <p className="description">{description}</p>
             <h3 className="price">{price}</h3>
+            <button className="btn btn-click" onClick={()=>alert("hi")}>Click Me</button>
         </article>
         )
     }
